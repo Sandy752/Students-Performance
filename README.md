@@ -69,8 +69,7 @@ progress!!!!
 | Random Forest Regressor   | 2.3227         | 1.8397       | 0.9761       | 6.0109    | 4.6502   | 0.8515   |
 | XGBRegressor              | 1.0073         | 0.6875       | 0.9955       | 6.4733    | 5.0577   | 0.8278   |
 | AdaBoost Regressor       | 5.9123         | 4.8520       | 0.8450       | 6.1733    | 4.8413   | 0.8434   |
-
-**Summary:**  
+ 
 The model performance indicates that the Decision Tree and XGBRegressor performed exceptionally well on the training set, with R² scores close to 1. However, the K-Neighbors Regressor and AdaBoost Regressor showed relatively lower performance on the test set, suggesting potential overfitting.
 
 
