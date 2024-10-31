@@ -1,7 +1,7 @@
+Flask
+dill
 pandas
 numpy
 seaborn
-catboost
-xgboost
 scikit-learn
-#-e .
+-e .
